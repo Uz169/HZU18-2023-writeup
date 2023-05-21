@@ -42,3 +42,8 @@ SFpVMTh7Q2gzRidzLUsxc3MxbkdfVDBVQ0h9
 ```
 HZU18{Ch3F's-K1ss1nG_T0UCH}
 ```
+flag олдоно
+
+```
+From Hex -> From Octal -> From Base32 -> From Decimal -> From Binary -> From Hex -> From Base64
+```
