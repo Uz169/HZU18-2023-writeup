@@ -9,7 +9,7 @@ Easy
 
 Author: @Bilgee
 
-<img src = "wa"> 
+<img src = "https://github.com/Uz169/HZU18-2023-writeup/blob/main/Cryptography/Wakanda%20%D2%AE%D2%AF%D1%80%D0%B4/wakandas.png"> 
 
 ## Solve
 wakandas.png зургыг нээж үзэхэд flag -г ямар нэг substitution шифрээр шифрлэсэн нь харагдана.
