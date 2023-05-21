@@ -1,5 +1,9 @@
 # EncodeManiac!
 ***
+Easy 
+,1000 points
+,2 solves
+
 ## Description
 You know what to do.
 /flag.txt
