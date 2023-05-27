@@ -37,7 +37,9 @@ cleaned_string = remove_characters(input_string)
 print(cleaned_string)
 ```
 уг script -г ажиллуулахад ``` 485a5531387b68337833645f336e686a305f6234645f6230797d ``` гэсэн утга гарч ирэх ба hex -ээс шилжүүлэхэд
+
 ```
 HZU18{h3x3d_3nhj0_b4d_b0y}
-``` гэсэн flag олдоно
+```
+гэсэн flag олдоно
 
