@@ -6,8 +6,8 @@ Easy
 
 ## Description
 
-https://github.com/Uz169/HZU18-2023-writeup/blob/main/Round2/Cryptography/Scanme/qr.png
-https://github.com/Uz169/HZU18-2023-writeup/blob/main/Round2/Cryptography/Scanme/1.txt
+<a href="https://github.com/Uz169/HZU18-2023-writeup/blob/main/Round2/Cryptography/Scanme/qr.png">qr.png</a>
+<a href="https://github.com/Uz169/HZU18-2023-writeup/blob/main/Round2/Cryptography/Scanme/1.txt"> 1.txt </a>
 
 ## Solve
 1.txt file дотор rlf_pz_lujvkl гэсэн cipheredtext байх ба уг текстыг caeser cipher ээр decrypt хийхэд "key_is_encode" гэсэн үг гарна.
