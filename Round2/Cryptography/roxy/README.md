@@ -8,7 +8,7 @@ Easy
 you know what to do
 ``` 333020424c176e0a53093c2d3c420b1736665c57262924025d7b202c6e4a793d3d060735 ```
 
-Hint - 	key=HZU18
+Hint - ```key=HZU18```
 ## Solve
 Уг challenge -н нэрнээс xor гэдгийг нь харж болох ба hint дээр key нь HZU18 гэдэг нь өгөгдсөн key,cipheredtext 2 байгаа учир тайлахад
 хялбар болно. 
