@@ -13,7 +13,7 @@ maamuu3.gif -ыг frame, frame ээр нь олон хэсэг хуваагаа�
 зүүн дээд буланд flag нь бүдэгхэн харагдана
 
 <p align="center">
-  <img src="https://github.com/Uz169/HZU18-2023-writeup/blob/main/Cryptography/Old%20but%20Gold/download.png">
+  <img src="https://github.com/Uz169/HZU18-2023-writeup/blob/main/Round2/Forensic/maamuu/frame_13_delay-0.05s.gif">
 </p>
 
 flag - ``` HZU18{33_graphics_1} ```
