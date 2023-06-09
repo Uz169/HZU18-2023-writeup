@@ -8,7 +8,7 @@ Easy
 ## Description
 Free Certifications for everyone :))
 
-<a href="Cryptography/Certification/Certification.txt">Certifications.txt</a>
+<a href="Cryptography/Certification/Certification.txt">Certification.txt</a>
 ## Solve
 ```
 -----BEGIN CERTIFICATE REQUEST-----
@@ -30,3 +30,10 @@ VEhZzKCNSoo3QY5djACTqWDq28K/1qOfEhiQWu8CCx/PFsyt0bvSAa/RASJ4EoCI
 3S9rN8Scazt4om1CK2RnpQHiIG/m63w=
 -----END CERTIFICATE REQUEST-----
 ```
+
+Certification.txt file-ыг нээж үзэхэд дотор нь .pem -н certification байх ба доторх агуулгыг үзэхийн тулд Certification decoder гэх мэт онлайн tool ашиглах хэрэгтэй 
+Миний ашигласан tool - https://certlogik.com/decoder/
+
+Уг certification-ыг decode хийсний дараа "Organization (O)" хэсэгээс flag нь ```HZU18{C3r7if13d_h4ck3r}``` гэж олдоно.
+
+
