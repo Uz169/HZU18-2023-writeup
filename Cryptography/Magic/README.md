@@ -1,5 +1,6 @@
 # Magic
 ***
+Misc
 Easy 
 ,1000 points
 
