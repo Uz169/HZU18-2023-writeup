@@ -3,6 +3,7 @@
 Crypto
 Easy 
 ,1000 points
+
 Author@Uzi
 
 ## Description
@@ -34,6 +35,6 @@ VEhZzKCNSoo3QY5djACTqWDq28K/1qOfEhiQWu8CCx/PFsyt0bvSAa/RASJ4EoCI
 Certification.txt file-ыг нээж үзэхэд дотор нь .pem -н certification байх ба доторх агуулгыг үзэхийн тулд Certification decoder гэх мэт онлайн tool ашиглах хэрэгтэй 
 Миний ашигласан tool - https://certlogik.com/decoder/
 
-Уг certification-ыг decode хийсний дараа "Organization (O)" хэсэгээс flag нь ```HZU18{C3r7if13d_h4ck3r}``` гэж олдоно.
+Уг certification-ыг decode хийсний дараа "Organization (O)" хэсгээс flag нь ```HZU18{C3r7if13d_h4ck3r}``` гэж олдоно.
 
 
