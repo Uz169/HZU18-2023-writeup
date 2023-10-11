@@ -1,4 +1,4 @@
-# EncodeManiac!  flag{haha}
+# EncodeManiac! 
 ***
 Easy 
 ,1000 points
