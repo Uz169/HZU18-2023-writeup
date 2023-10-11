@@ -24,6 +24,9 @@ flag.txt ээ нээгээд харах юм бол
 ```
 GQ4CANBYEA2DSIBUHEQDIOB...
 ```
+
+
+testhehe
 гэсэн base шифр гарна үүнийг дахиад base32-р тайлахад
 
 ```
